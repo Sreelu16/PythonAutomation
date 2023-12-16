@@ -1,0 +1,10 @@
+{
+
+    "environment": "https://qa-tools-appsulate.onrender.com/",
+
+    "Username": "user1",
+    "Password": "pass1",
+    "browser": "Chrome",
+    "screenshot": true
+
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "pageName": "LoginPage",
+    "name": "loginlink",
+    "locateUsing": "xpath",
+    "locator": "//input[@value='Login page']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "username",
+    "locateUsing": "id",
+    "locator": "username"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "Password",
+    "locateUsing": "id",
+    "locator": "password"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "loginButton",
+    "locateUsing": "xpath",
+    "locator": "//*[@type='submit']"
+  }
+  ]

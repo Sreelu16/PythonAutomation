@@ -1,0 +1,8 @@
+[
+  {
+    "pageName": "homepage",
+    "name": "name",
+    "locateUsing": "xpath",
+    "locator": "//div[@class='ui-table-scrollable-view']/div[1]/div[1]/table[1]/thead/tr[1]/th[1]/span[1]/p-sorticon[1]"
+  }
+  ]
