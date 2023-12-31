@@ -1,4 +1,4 @@
-#@author Kratika Simlote
+#@author Sreelakshmi
 #Class Description: Login functions to be used across all test cases
 import time
 from base.basepage import BasePage
